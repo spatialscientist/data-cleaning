@@ -1,0 +1,18 @@
+Order ID,Order Date,Product,Quantity
+1004,2010-01-22,Product C,1
+1005,2010-01-25,Product B,4
+1006,2023-01-28,Product A,2
+1007,2023-02-02,Product C,3
+1008,2023-02-02,Product B,1
+1009,2023-02-08,Product A,2
+1010,2023-02-10,Product C,4
+1011,2023-02-12,Product A,3
+1012,2023-02-14,Product B,2
+1013,2023-02-14,Product A,1
+1014,2023-02-20,Product C,5
+1015,2023-02-25,Product B,3
+1016,2023-02-28,Product A,2
+1017,2023-03-05,Product C,4
+1018,2023-03-10,Product A,1
+1019,2023-03-12,Product B,3
+1020,2023-03-12,Product C,2
